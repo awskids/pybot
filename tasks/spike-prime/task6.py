@@ -70,6 +70,6 @@ drawArc(diameter, 50)
 # y = sin(2*t) / 2;
 #########################################################################
 
-Augustus is amazing!
-And Marrio is doodoo at java.
+Augustus is slow + mono...
+Marrio is not!
 
