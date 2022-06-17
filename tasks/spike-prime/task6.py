@@ -69,5 +69,5 @@ drawArc(diameter, 50)
 # y = sin(2*t) / 2;
 #########################################################################
 
-Augustus can not do this.
-But Marrio can.
+Augustus can do this.
+And Marrio is bad at java.
