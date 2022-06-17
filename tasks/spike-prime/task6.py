@@ -10,6 +10,7 @@ task="task6"
 # * Motor forward is -1
 #########################################################################
 from math import *
+from re import M
 build_direction=-1
 driving_base=11.3
 unit='cm'
@@ -69,5 +70,6 @@ drawArc(diameter, 50)
 # y = sin(2*t) / 2;
 #########################################################################
 
-Augustus can do this.
-And Marrio is bad at java.
+Augustus is amazing!
+And Marrio is doodoo at java.
+
