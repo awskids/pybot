@@ -70,6 +70,5 @@ drawArc(diameter, 50)
 # y = sin(2*t) / 2;
 #########################################################################
 
-Augustus is slow + mono...
-Marrio is not!
+
 
