@@ -70,4 +70,4 @@ drawArc(diameter, 50)
 #########################################################################
 
 Augustus can do this.
-And Marrio is bad at java.
+And Marrio is better at java than augustus.
